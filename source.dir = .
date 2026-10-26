@@ -1,0 +1,6 @@
+(source.dir = .)
+.
+├── main.py                <-- Script principal unificado
+├── euniprincez_core.py    <-- Núcleo de metadatos y constantes Decimal
+├── android_hardening.py   <-- Módulo de blindaje FLAG_SECURE (Pyjnius)
+└── buildozer.spec         <-- Configuración limpia de compilación
